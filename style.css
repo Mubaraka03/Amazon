@@ -2,7 +2,15 @@
 
 /* Custom 90s Cursor */
 * {
-    cursor: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFYSURBVHjaYvz//z8DJYCJgUIw2jRqATEfEH8H4gdQNhZwHYi/AvFXIP4KxN+AmJJwA4h/A/FvIP4DxH+B+C8QUxpuAfFvIP4DxH+A+C8Q/wViisJ1IP4JxL+A+DcQ/wXiv0BMsbkXgPgHEP8C4j9A/BeI/wIxRc39AMQ/gfgXEP8G4r9A/BeIKWruByD+CcS/gPg3EP8F4r9ATHFz3wPxDyD+BcS/gfgvEP8FYoqa+x6IfwDxLyD+DcR/gfgvEFPU3HdA/AOIfwHxbyD+C8R/gZii5r4F4h9A/AuIfwPxXyD+C8QUNfcNEP8A4l9A/BuI/wLxXyCmqLlvgPgHEP8C4t9A/BeI/wIxRc19DcQ/gPgXEP8G4r9A/BeIKWruKyD+AcS/gPg3EP8F4r9ATFFzXwLxDyD+BcS/gfgvEP8FYoqa+wKIfwDxLyD+DcR/gfgvEFMUAQQYAH7Hh6LlGLa1AAAAAElFTkSuQmCC'), auto;
+    cursor: crosshair;
+}
+
+a, button {
+    cursor: pointer;
+}
+
+.section {
+    cursor: text;
 }
 
 /* Body Styling */
